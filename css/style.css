@@ -1,3 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&family=Oldenburg&display=swap');
+  
 body {
-    background-color: rgb(209, 150, 13);
-}
+    background-color: rgb(209, 150, 13);}
+
+html, body {
+    margin: 0;
+    padding: 0;}
+
+header {
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;}
+
+header img {
+    width: 450px; 
+    border: 10px solid #33120c; 
+    border-radius: 50%;}
+
+header, h1 {
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #33120c;}
