@@ -75,7 +75,8 @@ footer .content{
 footer a:hover{
     color:#e02f10;}
 
+/* Changes based on media. aka a phone instead of pc */
+
 @media (max-width: 500px) {
     footer p{font-size: 16px;}
-    header .pfp{width: 315px; height: 140px;}
-}
+    header .pfp{width: 315px; height: 140px;}}
